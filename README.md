@@ -4,4 +4,4 @@ In order to practice my skills in C language and to remember some basic subjects
 
 ## Tools Used:
 
-![Logo da Linguagem C](images/c_logo.png)
+![Logo da Linguagem C](images/c_icon.png)
