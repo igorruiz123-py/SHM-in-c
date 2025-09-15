@@ -4,4 +4,4 @@ In order to practice my skills in C language and to remember some basic subjects
 
 ## Tools Used:
 
-<img src="images/c_icon.png" alt="Logo da Linguagem C" width="40" height="40">
+<img src="images/c_icon.png" alt="Logo da Linguagem C" width="80" height="80">
